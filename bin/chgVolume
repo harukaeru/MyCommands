@@ -1,0 +1,8 @@
+#! /bin/sh
+#Control Volume On Mac
+if [ $# -gt 0 ]; then
+osascript -e "set volume output volume $1"
+else
+	echo "No arguments"
+fi
+

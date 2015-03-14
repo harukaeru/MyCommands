@@ -1,0 +1,17 @@
+#!/bin/sh
+
+app_path="/Users/usrNeko/ShortcutCommand/apps/record"
+now=`date +"%H:%M:%S %y年%m月%d日"`
+pathed="$app_path/record.log"
+echo "" >> $pathed
+echo $1 "- start :" $now >> $pathed
+minute_third=0
+while true; do
+	sleep 20
+	minute_third=`expr $minute_third + 1`
+	if [ `expr $minute_third % 3` -eq 0 ]; then
+		/bin/echo -n `expr $minute_third / 3`  >> $pathed
+	else
+		/bin/echo -n "." >> $pathed
+	fi
+done

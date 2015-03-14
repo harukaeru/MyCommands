@@ -1,0 +1,2 @@
+#!/bin/sh
+echo $@ >> ~/Shortcutcommand/apps/Todo/todolist.txt

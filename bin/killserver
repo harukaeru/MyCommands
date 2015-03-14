@@ -1,0 +1,4 @@
+#!/bin/sh
+
+source ~/.zshrc
+kill -9 $(lsof -ti:8000)
