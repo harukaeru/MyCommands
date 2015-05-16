@@ -1,0 +1,7 @@
+#!/bin/sh
+if [ -n "$VIRTUAL_ENV" ]; then
+    envname=`basename $VIRTUAL_ENV`
+    echo "workon $envname" > ~/.workonlogin
+else
+    echo "" > ~/.workonlogin
+fi
