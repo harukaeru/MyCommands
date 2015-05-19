@@ -1,0 +1,2 @@
+#!/bin/sh
+python $g3/manage.py runserver

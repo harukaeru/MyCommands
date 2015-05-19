@@ -1,0 +1,5 @@
+#!/bin/sh
+
+export DJANGO_SETTINGS_MODULE=goocus.settings.nosesettings
+export REUSE_DB=1
+

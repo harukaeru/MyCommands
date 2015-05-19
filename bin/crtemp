@@ -1,0 +1,10 @@
+#!/bin/sh
+cur_dir=`pwd`
+temp_dir=~/temp_files_delete_a_day
+cd $temp_dir
+file_name=`basename $1`
+cat $cur_dir/${1} > $temp_dir/$file_name
+echo "$cur_dir/${1}"
+echo "$temp_dir/$file_name"
+
+

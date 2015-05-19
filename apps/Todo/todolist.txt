@@ -1,3 +1,8 @@
+zsh] autocompletion
+vim] open based with line-number for words
+iterm] change color by directories
+grep] grep後tab selecting open
+
 -数学
 --応用情報勉強
 --線形代数基礎
@@ -81,3 +86,4 @@
 -就職
 ==ended==
 -英単語ターゲット全部
+-100万マス計算

@@ -1,0 +1,11 @@
+#!/bin/sh
+
+/usr/bin/osascript <<EOF
+tell application "iTerm"
+  tell the current terminal
+    tell the current session
+      set background color to {$1*65535/255, $2*65535/255, $3*65535/255}
+    end tell
+  end tell
+end tell
+EOF

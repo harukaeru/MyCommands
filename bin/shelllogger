@@ -1,0 +1,3 @@
+#!/bin/sh
+cur_shell=`ps -p $$ | awk '{print $2;}' | tail -1`
+script ~/Log/TerminalLog/`echo $cur_shell`.`date +"%Y_%m%d_%H%M"`
