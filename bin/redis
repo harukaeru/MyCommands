@@ -1,0 +1,4 @@
+#!/bin/sh
+
+chtermbg 100 50 50
+redis-server

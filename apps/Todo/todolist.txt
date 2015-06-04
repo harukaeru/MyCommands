@@ -1,7 +1,25 @@
+python] decorators
+python] logout, then save variables
 zsh] autocompletion
 vim] open based with line-number for words
 iterm] change color by directories
 grep] grep後tab selecting open
+
+[やらないといけないこと]
+--PDB(debugger)
+-英語
+--はじぱい
+--Django
+
+[優先的趣味]
+-C
+--Vim
+-JavaScript
+--jQuery
+---AJAX
+
+[趣味]
+-正規表現
 
 -数学
 --応用情報勉強
@@ -11,7 +29,7 @@ grep] grep後tab selecting open
 --群・環・体
 --高校数学基礎
 
--英語
+--えいごえいごえいご！
 -ロイヤル英文法２周
 -英語ターゲット２周目
 
@@ -20,6 +38,7 @@ grep] grep後tab selecting open
 --グラフ理論
 --OS基礎
 --セキュリティ基礎
+--サーバ・スクラッチからRun
 
 -実績
 --Djangoでポケモン作るやつ
@@ -29,14 +48,15 @@ grep] grep後tab selecting open
 --RPGつくる
 
 -Editor
---Vim
+---Vim Script
 
--C
 --C文法
 
 -Python
 --Python文法詳解
 --Pypiにうp
+
+-Perl
 
 -人工知能
 --機械学習
@@ -49,9 +69,7 @@ grep] grep後tab selecting open
 -Lisp
 --Lisp文法
 
--JavaScript
 --JavaScript文法
---jQuery
 --Node.js
 --CoffeeScript
 --WebSocket
@@ -75,15 +93,9 @@ grep] grep後tab selecting open
 -普通の絵描く
 -ドット絵
 
--学校のやつ
---JavaScript/PHP/Photoshop/illustrator/Flash
-
 -Chores
 --Windows買う
 --掃除
----ゴミ袋買ってくる
 
--就職
 ==ended==
--英単語ターゲット全部
 -100万マス計算

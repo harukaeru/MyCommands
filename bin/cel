@@ -1,0 +1,4 @@
+#!/bin/sh
+
+chtermbg 20 70 20
+celery -A job worker --loglevel=info
