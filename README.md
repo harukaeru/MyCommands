@@ -12,7 +12,7 @@ Save current environment python-virtualenv for calling when terminal runs
 ```
 
 
-Input filename then output filename zero-padded
+Input filename then rename filename zero-padded
 ```sh
 % zeropad xxx1.zip  # -> xxx00001.zip
 % ls *.jpg | xargs -n 1 zeropad
