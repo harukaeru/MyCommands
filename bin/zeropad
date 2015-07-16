@@ -1,0 +1,4 @@
+num=$(echo $1 | sed 's/[^0-9]//g')
+zeronum=$(printf %05d $num)
+mvfile=$(echo $1 | sed "s/$num/$zeronum/g")
+mv $1 $mvfile

@@ -1,3 +1,4 @@
+python] todo mark in code
 python] decorators
 python] logout, then save variables
 zsh] autocompletion
@@ -8,18 +9,18 @@ grep] grep後tab selecting open
 [やらないといけないこと]
 --PDB(debugger)
 -英語
---はじぱい
---Django
+--はじぱい◎
+--Django◎
 
 [優先的趣味]
 -C
---Vim
--JavaScript
---jQuery
+--Vim◎
+-JavaScript◎
+--jQuery◎
 ---AJAX
 
 [趣味]
--正規表現
+-正規表現◎
 
 -数学
 --応用情報勉強
@@ -34,7 +35,7 @@ grep] grep後tab selecting open
 -英語ターゲット２周目
 
 -ComputerScience
---ネットワーク基礎
+--ネットワーク基礎◎
 --グラフ理論
 --OS基礎
 --セキュリティ基礎
@@ -82,7 +83,7 @@ grep] grep後tab selecting open
 --Unity(C#)
 
 -管理
---Gitの使い方
+--Gitの使い方◎
 --マネジメント
 
 -ハード
